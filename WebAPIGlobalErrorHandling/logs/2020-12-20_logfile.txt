@@ -1,0 +1,7 @@
+2020-12-20 11:18:20.7379 ERROR Test Log error!
+2020-12-20 11:26:34.6703 INFO Get WeatherForecast Init.
+2020-12-20 11:26:35.1235 ERROR Error: System.Exception: Eror in Get WeatherForecast
+   at WebAPIGlobalErrorHandling.Controllers.WeatherForecastController.Get() in C:\Users\QuibicLab\source\repos\NetCore\WebAPIGlobalErrorHandling\WebAPIGlobalErrorHandling\Controllers\WeatherForecastController.cs:line 36
+2020-12-20 11:34:32.2275 INFO Get WeatherForecast Init.
+2020-12-20 11:34:32.6294 ERROR Error: System.Exception: Eror in Get WeatherForecast
+   at WebAPIGlobalErrorHandling.Controllers.WeatherForecastController.Get() in C:\Users\QuibicLab\source\repos\NetCore\WebAPIGlobalErrorHandling\WebAPIGlobalErrorHandling\Controllers\WeatherForecastController.cs:line 37
